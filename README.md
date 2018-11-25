@@ -1,2 +1,3 @@
-# react-test-learn
-学习react
+# react-simple-o2o-demo
+
+代码尚在开发中
